@@ -1,0 +1,4 @@
+INSTRUCTIONS:
+VIEW THE HTML'S CODE
+CLICK RAW
+REPLACE "githubusercontent" WITH "githack"
